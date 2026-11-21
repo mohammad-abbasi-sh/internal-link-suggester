@@ -1,0 +1,256 @@
+{
+  "pages": 8,
+  "suggestions": 21,
+  "orphans": [
+    "https://demo.example/astronomy.html",
+    "https://demo.example/beans.html"
+  ],
+  "results": {
+    "https://demo.example/astronomy.html": [],
+    "https://demo.example/beans.html": [
+      {
+        "source_url": "https://demo.example/beans.html",
+        "target_url": "https://demo.example/grinder.html",
+        "target_title": "Coffee Grinder Guide",
+        "score": 0.238,
+        "anchors": [
+          "grinder",
+          "coffee",
+          "press"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/beans.html",
+        "target_url": "https://demo.example/index.html",
+        "target_title": "Home Coffee Brewing",
+        "score": 0.204,
+        "anchors": [
+          "coffee",
+          "brewing",
+          "grind"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/beans.html",
+        "target_url": "https://demo.example/french-press.html",
+        "target_title": "French Press Guide",
+        "score": 0.157,
+        "anchors": [
+          "press",
+          "french",
+          "guide"
+        ]
+      }
+    ],
+    "https://demo.example/espresso.html": [
+      {
+        "source_url": "https://demo.example/espresso.html",
+        "target_url": "https://demo.example/index.html",
+        "target_title": "Home Coffee Brewing",
+        "score": 0.324,
+        "anchors": [
+          "home",
+          "water",
+          "coffee"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/espresso.html",
+        "target_url": "https://demo.example/grinder.html",
+        "target_title": "Coffee Grinder Guide",
+        "score": 0.234,
+        "anchors": [
+          "grinder",
+          "coffee",
+          "size"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/espresso.html",
+        "target_url": "https://demo.example/pour-over.html",
+        "target_title": "Pour Over Guide",
+        "score": 0.176,
+        "anchors": [
+          "size",
+          "coffee",
+          "grind"
+        ]
+      }
+    ],
+    "https://demo.example/french-press.html": [
+      {
+        "source_url": "https://demo.example/french-press.html",
+        "target_url": "https://demo.example/grinder.html",
+        "target_title": "Coffee Grinder Guide",
+        "score": 0.322,
+        "anchors": [
+          "grinder",
+          "coffee",
+          "size"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/french-press.html",
+        "target_url": "https://demo.example/pour-over.html",
+        "target_title": "Pour Over Guide",
+        "score": 0.312,
+        "anchors": [
+          "filter",
+          "guide",
+          "size"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/french-press.html",
+        "target_url": "https://demo.example/index.html",
+        "target_title": "Home Coffee Brewing",
+        "score": 0.294,
+        "anchors": [
+          "water",
+          "coffee",
+          "brewing"
+        ]
+      }
+    ],
+    "https://demo.example/grinder.html": [
+      {
+        "source_url": "https://demo.example/grinder.html",
+        "target_url": "https://demo.example/french-press.html",
+        "target_title": "French Press Guide",
+        "score": 0.322,
+        "anchors": [
+          "press",
+          "french",
+          "coarse"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/grinder.html",
+        "target_url": "https://demo.example/pour-over.html",
+        "target_title": "Pour Over Guide",
+        "score": 0.32,
+        "anchors": [
+          "pour",
+          "guide",
+          "size"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/grinder.html",
+        "target_url": "https://demo.example/index.html",
+        "target_title": "Home Coffee Brewing",
+        "score": 0.262,
+        "anchors": [
+          "coffee",
+          "brewing",
+          "grind"
+        ]
+      }
+    ],
+    "https://demo.example/index.html": [
+      {
+        "source_url": "https://demo.example/index.html",
+        "target_url": "https://demo.example/espresso.html",
+        "target_title": "Espresso at Home",
+        "score": 0.324,
+        "anchors": [
+          "espresso",
+          "home",
+          "size"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/index.html",
+        "target_url": "https://demo.example/french-press.html",
+        "target_title": "French Press Guide",
+        "score": 0.294,
+        "anchors": [
+          "press",
+          "french",
+          "guide"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/index.html",
+        "target_url": "https://demo.example/water.html",
+        "target_title": "Water for Coffee",
+        "score": 0.284,
+        "anchors": [
+          "water",
+          "coffee",
+          "temperature"
+        ]
+      }
+    ],
+    "https://demo.example/pour-over.html": [
+      {
+        "source_url": "https://demo.example/pour-over.html",
+        "target_url": "https://demo.example/grinder.html",
+        "target_title": "Coffee Grinder Guide",
+        "score": 0.32,
+        "anchors": [
+          "grinder",
+          "coffee",
+          "size"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/pour-over.html",
+        "target_url": "https://demo.example/french-press.html",
+        "target_title": "French Press Guide",
+        "score": 0.312,
+        "anchors": [
+          "filter",
+          "coarse",
+          "guide"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/pour-over.html",
+        "target_url": "https://demo.example/index.html",
+        "target_title": "Home Coffee Brewing",
+        "score": 0.188,
+        "anchors": [
+          "water",
+          "coffee",
+          "brewing"
+        ]
+      }
+    ],
+    "https://demo.example/water.html": [
+      {
+        "source_url": "https://demo.example/water.html",
+        "target_url": "https://demo.example/index.html",
+        "target_title": "Home Coffee Brewing",
+        "score": 0.284,
+        "anchors": [
+          "home",
+          "water",
+          "coffee"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/water.html",
+        "target_url": "https://demo.example/french-press.html",
+        "target_title": "French Press Guide",
+        "score": 0.198,
+        "anchors": [
+          "press",
+          "french",
+          "filter"
+        ]
+      },
+      {
+        "source_url": "https://demo.example/water.html",
+        "target_url": "https://demo.example/pour-over.html",
+        "target_title": "Pour Over Guide",
+        "score": 0.159,
+        "anchors": [
+          "pour",
+          "filter",
+          "coffee"
+        ]
+      }
+    ]
+  }
+}
